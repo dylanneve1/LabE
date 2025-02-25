@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2024.1 (lin64) Build 5076996 Wed May 22 18:36:09 MDT 2024
-| Date         : Tue Feb 25 10:07:46 2025
+| Date         : Tue Feb 25 10:45:46 2025
 | Host         : fc0db80285f5 running 64-bit Ubuntu 22.04.5 LTS
 | Command      : report_clock_utilization -file _6bit_ripple_adder_clock_utilization_routed.rpt
 | Design       : _6bit_ripple_adder
